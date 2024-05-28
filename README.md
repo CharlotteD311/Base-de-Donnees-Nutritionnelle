@@ -7,15 +7,11 @@ pour améliorer et optimiser ce processus.
 
 ### Objectifs:
 
-**Nettoyage et Filtrage des Données:** Automatiser la préparation et le filtrage des données en identifiant les features et les produits pertinents via des fonctions Python.
-
-**Gestion des Valeurs Aberrantes:** Utiliser des visualisations et des statistiques pour identifier et traiter adéquatement les valeurs aberrantes.
-
-**Traitement des Valeurs Manquantes::** Identifier et traiter les valeurs manquantes en utilisant des méthodes statistiques et des imputations réfléchies.
-
-**Analyses Univariées et Bivariées:** Réaliser des analyses univariées et bivariées pour explorer la distribution des variables et les relations entre elles.
-
-**Analyse Multivariée:** Approfondir l'étude des interactions complexes entre variables via des techniques de visualisation avancées et des méthodes statistiques.
+- **Nettoyage et Filtrage des Données:** Automatiser la préparation et le filtrage des données en identifiant les features et les produits pertinents via des fonctions Python.
+- **Gestion des Valeurs Aberrantes:** Utiliser des visualisations et des statistiques pour identifier et traiter adéquatement les valeurs aberrantes.
+- **Traitement des Valeurs Manquantes::** Identifier et traiter les valeurs manquantes en utilisant des méthodes statistiques et des imputations réfléchies.
+- **Analyses Univariées et Bivariées:** Réaliser des analyses univariées et bivariées pour explorer la distribution des variables et les relations entre elles.
+- **Analyse Multivariée:** Approfondir l'étude des interactions complexes entre variables via des techniques de visualisation avancées et des méthodes statistiques.
 
 Accès aux données via https://world.openfoodfacts.org/
 
